@@ -1,0 +1,113 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+li,
+button,
+form {
+  font-family: "Poppins", sans-serif;
+}
+
+h4 {
+  margin-top: 8px;
+}
+
+h2 {
+  margin-bottom: 4px;
+}
+
+p {
+  font-size: 13px;
+  margin: 0 auto;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-size: 13px;
+}
+
+button,
+form {
+  font-size: 12px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+form {
+  margin-bottom: 10px;
+  font-size: 12px;
+}
+
+.body {
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+  max-width: 650px;
+}
+
+.searched-city {
+  margin: 60px 0 0 0;
+}
+
+.weather-icon {
+  font-size: 65px;
+  width: 65px;
+  margin-right: 10px;
+}
+
+.degrees {
+  color: black;
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 1;
+}
+
+.degrees-units {
+  position: relative;
+  top: -34px;
+  left: -5px;
+}
+
+.col-5 {
+  line-height: 1;
+}
+
+.search-bar {
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+.find-current-location {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.find-city {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.col-9 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.weather-details {
+  padding-top: 0;
+  padding-right: 0;
+}
+
+.next-day {
+  margin: 50px 0 0 0;
+  text-align: center;
+  padding: 0;
+}
